@@ -62,7 +62,6 @@
 		height: 100%;
 		border-radius: 0;
 		background-color: white;
-		font-family: 'Nunito', sans-serif;
 		color: #666;
 		will-change: transform;		
 		i {

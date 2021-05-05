@@ -4,7 +4,7 @@
 			v-if="!!selected"
 			:class="{ 'floating-button__editing': !!editing }"
 			:style="{ background: gradientColor }"
-			@click="toggleEditingAsync"
+			@click="toggleEditing"
 		>
 			<i class="fa fa-plus"></i>
 		</button>
@@ -12,7 +12,7 @@
 </template>
 
 <script>
-	import { mapState, mapActions, mapGetters } from 'vuex'
+	import { mapState, mapMutations, mapGetters } from 'vuex'
 	
 	export default {
 		computed: {
@@ -25,7 +25,7 @@
 			}
 		},
 		methods: {
-			...mapActions(['toggleEditingAsync']),
+			...mapMutations(['toggleEditing']),
 		}
 	}
 </script>

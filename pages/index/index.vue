@@ -1,6 +1,6 @@
 <template>
 	<view class="index">
-		<app-bar title="Daily" left="bars" right="search" />
+		<app-bar title="FishMemory" left="bars" right="search" />
 		<avatar />
 		<gradient />
 		<month-picker />

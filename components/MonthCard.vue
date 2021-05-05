@@ -115,7 +115,7 @@
 	}
 	
 	.month-card_progress_line {
-		flex: 1;
+		flex: 0 0 80%;
 		height: 10rpx;
 		background-color: #e7e7e7;
 		

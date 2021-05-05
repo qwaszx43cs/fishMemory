@@ -96,6 +96,7 @@
 		.app-bar {
 			opacity: 1;
 			transform: translate3d(0, 0, 0);
+			background-color: white;
 		}
 	}
 
@@ -127,6 +128,7 @@
 		}
 
 		.right {
+			padding: 10rpx;
 			margin-left: 20rpx;
 			overflow: hidden;
 			text-overflow: ellipsis;
