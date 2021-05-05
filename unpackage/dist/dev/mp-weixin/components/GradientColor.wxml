@@ -1,0 +1,1 @@
+<view class="{{['gradient_color',(active)?'gradient_color__active':'']}}" style="{{'background-image:'+(gradientColor)+';'}}"></view>

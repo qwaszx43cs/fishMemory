@@ -1,0 +1,1 @@
+<view class="{{['month-picker',(!!selected)?'month-picker__selected':'']}}"><picker mode="date" value="{{date}}" start="{{startDate}}" end="{{endDate}}" fields="month" data-event-opts="{{[['change',[['bindDateChange',['$event']]]]]}}" bindchange="__e"><view class="uni-input">{{''+('Today: '+date)+''}}<view class="fa fa-chevron-down _i"></view></view></picker></view>

@@ -1,0 +1,18 @@
+{
+  "name": "fishMemory",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.29.1",
+    "uni-read-pages": "^1.0.5",
+    "uview-ui": "file:uview-ui",
+    "vuex": "^3.6.2"
+  }
+}

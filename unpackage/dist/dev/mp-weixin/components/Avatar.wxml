@@ -1,0 +1,1 @@
+<view class="{{['avatar',(!!selected)?'avatar_selected':'']}}"><view class="avatar_face"><image src="/static/image/touxiang.jpg" mode="widthFix"></image></view><view class="avatar_name _h1">Hello,小予</view><view class="avatar_tips">Looks like good<view class="_br"></view>This month you write 10 dailys</view><month-picker vue-id="09f47592-1" bind:__l="__l"></month-picker></view>

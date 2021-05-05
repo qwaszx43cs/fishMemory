@@ -1,0 +1,1 @@
+<view class="gradient"><block wx:for="{{monthList}}" wx:for-item="month" wx:for-index="index" wx:key="month"><gradient-color vue-id="{{'1e784adb-1-'+index}}" colors="{{month.colors}}" active="{{index<=currentIndex}}" bind:__l="__l"></gradient-color></block></view>

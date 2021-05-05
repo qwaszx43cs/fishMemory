@@ -1,0 +1,1 @@
+<view class="index"><app-bar vue-id="8dd740cc-1" title="Daily" left="bars" right="search" bind:__l="__l"></app-bar><avatar vue-id="8dd740cc-2" bind:__l="__l"></avatar><gradient vue-id="8dd740cc-3" bind:__l="__l"></gradient><month-list vue-id="8dd740cc-4" bind:__l="__l"></month-list></view>

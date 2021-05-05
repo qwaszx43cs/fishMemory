@@ -1,0 +1,1 @@
+<view class="app-bar"><text data-event-opts="{{[['tap',[['$emit',['left']]]]]}}" class="app-bar_l" bindtap="__e"><view class="{{['_i','fa','fa-'+left]}}"></view></text><view class="_h3">{{title}}</view><text data-event-opts="{{[['tap',[['$emit',['right']]]]]}}" class="app-bar_r" bindtap="__e"><view class="{{['_i','fa','fa-'+right]}}"></view></text></view>

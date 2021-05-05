@@ -1,0 +1,8 @@
+{
+  "usingComponents": {
+    "app-bar": "/components/AppBar",
+    "avatar": "/components/Avatar",
+    "gradient": "/components/Gradient",
+    "month-list": "/components/MonthList"
+  }
+}

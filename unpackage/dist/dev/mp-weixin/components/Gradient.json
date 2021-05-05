@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "gradient-color": "/components/GradientColor"
+  }
+}
