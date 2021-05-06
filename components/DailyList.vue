@@ -139,7 +139,7 @@
 	}
 
 	.daily-list_none {
-		height: 100%;
+		// height: 100%;
 		display: flex;
 		justify-content: center;
 		align-items: center;

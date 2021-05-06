@@ -32,14 +32,6 @@
 			FloatingButton,
 			SubmitDaily
 		},
-		methods: {
-			test(evt) {
-				console.log(evt);
-			}
-		},
-		mounted() {
-			console.log(uni.getStorageSync('uid'))
-		}
 	}
 </script>
 

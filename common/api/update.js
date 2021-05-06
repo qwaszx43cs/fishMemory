@@ -1,8 +1,8 @@
-import $http from '../http.js';
+// import $http from '../http.js';
 
-export const update_daily = (data) => {
-		return $http({
-			url: 'update_daily',
-			data
-		});
-}
+// export const update_daily = (data) => {
+// 		return $http({
+// 			url: 'update_daily',
+// 			data
+// 		});
+// }

@@ -69,7 +69,11 @@
 			}
 		
 	}
-		
+	
+	.app-bar {
+		font-family: "Microsoft YaHei";
+	}
+	
 	.submit-daily_imagebox {
 		height: 400rpx;
 		width: 100%;

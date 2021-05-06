@@ -1,7 +1,7 @@
 const state =  {
 	currentIndex: new Date().getMonth(),
 	// 全局ID计数
-	gid: 5,
+	gid: 4,
 	monthList: [
 		{
 			m_id: 1,
@@ -67,22 +67,13 @@ const state =  {
 			dailys: [
 				{
 						id: 3,
-						title: '今天开始写这个移动端作品啦！',
+						title: '劳动节开始放假！！',
 						content: 'RT',
-						dailyDate: '2021-05-02',
+						dailyDate: '2021-05-01',
 						submitDate: new Date(),
 						mood: 'happy',
 						deleted: false,
 					},
-				{
-						id: 4,
-						title: 'Congratulation!vuex版本做好啦，接下来准备接入uniCloud上线啦！',
-						content: 'RT',
-						dailyDate: '2021-05-02',
-						submitDate: new Date(),
-						mood: 'happy',
-						deleted: false,
-					}
 				],
 				colors: ['#56ab2f', '#a8e063']
 		}, 

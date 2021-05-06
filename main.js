@@ -5,6 +5,8 @@ import api from './common/api'
 import store from './store'
 import moment from 'moment'
 import {router, RouterMount} from './router/router.js'
+import './static/font-awesome-4.7.0/css/font-awesome.css'
+import 'uview-ui/index.scss'
 
 Vue.config.productionTip = false
 Vue.use(uView)

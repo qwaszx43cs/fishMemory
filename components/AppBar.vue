@@ -3,7 +3,7 @@
 		<text class="app-bar_l" @tap="$emit('left')">
 			<i :class="['fa', `fa-${left}`]"></i>
 		</text>
-		<h3>{{ title }}</h3>
+		<view class="app-bar_title">{{ title }}</view>
 		<text class="app-bar_r" @tap="$emit('right')">
 			<i :class="['fa', `fa-${right}`]"></i>
 		</text>
@@ -36,14 +36,14 @@
 		display: flex;
 		align-items: center;
 		z-index: 1;
-
-		h3 {
+		
+		.app-bar_title {
 			display: flex;
 			justify-content: center;
 			flex: 1;
 		}
 
-		text {
+		.app-bar_l, .app-bar_r {
 			padding: 0 5%;
 		}
 	}
