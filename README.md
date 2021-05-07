@@ -2,6 +2,8 @@
 
  [在线预览地址](https://qwaszx43cs.github.io/fishMemory/unpackage/dist/build/h5/index.html#/)
  
+ PC端预览需要将浏览器切换至移动端视图，并**重新刷新页面**，方可正常预览效果(晕，不知道为什么会有这个BUG，后面会修复)
+ 
  ## 背景: 
  
  五一之前遇到了些不开心的事想记录下来。看到市面上诸多的日记APP，心想自己也尝试着写一个移动端H5的日记。
