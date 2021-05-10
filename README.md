@@ -1,8 +1,10 @@
-# fishMemory
+# fishMemory (移动端H5)
 
+ [视频效果预览地址](https://www.bilibili.com/video/BV18f4y1a7nY)
+ 
  [在线预览地址](https://qwaszx43cs.github.io/fishMemory/unpackage/dist/build/h5/index.html#/)
  
- PC端预览需要将浏览器切换至移动端视图，并**重新刷新页面**，方可正常预览效果(晕，不知道为什么会有这个BUG，后面会修复)
+问题：未解决浏览器兼容问题，使用Chrome浏览器切换移动端可以预览
  
  ## 背景: 
  
